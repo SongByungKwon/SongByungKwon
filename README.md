@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 This is ByungKwon Song,</h1>
-<h3 align="center">a developer who codes dreams.</h3>
+<h1 align="center">Hi 👋 This is ByungKwon Song, align="center">a developer who codes dreams.</h1>
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=songbyungkwon" alt="songbyungkwon" /></a> </p>
 
